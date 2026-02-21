@@ -10,6 +10,7 @@
 <a href='https://arxiv.org/pdf/2602.04279'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 <a href='https://huggingface.co/PKUDigitalHealth/ECG-R1-8B-RL'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'>
 <a href='https://huggingface.co/datasets/PKUDigitalHealth/ECG-Protocol-Guided-Grounding-CoT'><img src='https://img.shields.io/badge/Dataset-Huggingface-yellow'>
+<a href='http://ai.heartvoice.com.cn/ECG-R1/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 
 <p align="center">
   Jiarui Jin, Haoyu Wang, Xingliang Wu, Xiaocheng Fang, Xiang Lan, Zihan Wang<br/>
