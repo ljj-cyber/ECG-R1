@@ -31,7 +31,8 @@ Electrocardiography (ECG) serves as an indispensable diagnostic tool in clinical
 
 ## 🔥Updates
 
-- **[Feb 2026]** ECG-R1 Online Platform is now available, try it in  http://ai.heartvoice.com.cn/ECG-R1 !
+- **[May 2026]** ECG-R1 has been accepted to ICML 2026.
+- **[Feb 2026]** ECG-R1 Online Platform is now available, try it in  http://ai.heartvoice.com.cn/ECG-R1.
 - **[Feb 2026]** [ECG-R1-8B](https://huggingface.co/PKUDigitalHealth/ECG-R1-8B-RL) and [ECG-Protocol-Guided-Grounding-CoT-30k](https://huggingface.co/datasets/PKUDigitalHealth/ECG-Protocol-Guided-Grounding-CoT) are now available. 
 
 *Stay tuned for updates!*
