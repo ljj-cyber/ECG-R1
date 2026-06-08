@@ -118,8 +118,7 @@ def main():
     ts_outputs = [extract_response(r) for r in ts_records]
 
     print(f"[init] loading metrics: bleu / rouge")
-    repo_root = Path(__file__).resolve().parents[3]
-    metrics_dir = repo_root / "scripts" / "modal_missing_evaluation" / "evaluate-main" / "metrics"
+    metrics_dir = script_dir / "evaluate-main" / "metrics"
     bleu_metric = evaluate.load(str(metrics_dir / "bleu"))
     rouge_metric = evaluate.load(str(metrics_dir / "rouge"))
 
